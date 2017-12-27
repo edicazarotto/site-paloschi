@@ -1,0 +1,17 @@
+.container{
+	align-items: center;
+}
+.paloschi{
+	font-style: 
+}
+
+body{
+	background-color: blue;
+}
+
+
+.fundo{
+background-image: url(imagemfundo.jpg);
+background-repeat: no-repeat;
+background-size: 100%;
+}
